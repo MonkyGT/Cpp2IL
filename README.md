@@ -19,7 +19,7 @@ see [README_CORE.md](Cpp2IL.Core/README_CORE.md)
 Uses [LibCpp2IL](LibCpp2IL) for the initial parsing and loading of metadata structures. LibCpp2IL is obtainable from the
 build artifacts if you want to do something yourself with IL2CPP metadata, and is released under the MIT license. The
 link above will take you to the documentation for LibCpp2IL.
-
+ 
 ## Command Line Options
 
 ### Basic Usage
